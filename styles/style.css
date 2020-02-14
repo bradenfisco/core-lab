@@ -3,15 +3,17 @@
 This is where your custom styles begin. 
 
 ==========================================================================  */
-
+body{
+  background-color: #002f40;
+}
 
 .home {
     font-family: futura-pt, sans-serif;
     font-weight: 700;
     font-style: normal;
-    color: white;
+    color: #002f40;
   -webkit-text-stroke-width: 2px;
-    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-color: white;
     font-size: 100pt;
     text-align: center;
 }
@@ -22,6 +24,7 @@ This is where your custom styles begin.
     font-style: normal;
     font-size:30pt;
     text-align: center;
+    color: white;
 }
 
 .links {
@@ -30,4 +33,5 @@ This is where your custom styles begin.
     font-style: normal;
     font-size:15pt;
     text-align: center;
+    color: white;
 }
