@@ -1,0 +1,41 @@
+.albums {
+    background-color: lightcoral;
+    width: 100%;
+    min-height: 100%;
+}
+
+
+.image {
+    width: 100%;
+    height: auto;
+    width: 400px;
+    align-self: center;
+    padding: 20px;
+    flex-basis: 25;
+}
+
+
+    
+    .container {
+    width: 100%;
+    max-width: 80%;
+    height: 100%;
+
+    margin: 0 auto;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding-top: 200px;
+    padding-bottom:200px;
+}
+
+@media (max-width: 800px) {
+    .container {
+
+        flex-direction: row;
+    }
+}
+
