@@ -78,6 +78,198 @@ font-weight: 800;
 }
 
 
+.six{
+  font-weight: 800;
+  color: white;
+
+}
+
+.six:hover{
+  color: rgb(165, 165, 165);
+font-weight: 800;
+}
+
+
+.seven{
+  font-weight: 800;
+  color: white;
+
+}
+
+.seven:hover{
+  color: rgb(255, 185, 185);
+font-weight: 800;
+}
+
+
+
+.eight{
+  font-weight: 800;
+  color: white;
+
+}
+
+.eight:hover{
+  color: rgb(175, 62, 62);
+font-weight: 800;
+}
+
+
+
+.nine{
+  font-weight: 800;
+  color: white;
+
+}
+
+.nine:hover{
+  color: rgb(173, 255, 248);
+font-weight: 800;
+}
+
+
+.ten{
+  font-weight: 800;
+  color: white;
+
+}
+
+.ten:hover{
+  color: rgb(185, 81, 255);
+font-weight: 800;
+}
+
+
+.eleven{
+  font-weight: 800;
+  color: white;
+
+}
+
+.eleven:hover{
+  color: rgb(183, 250, 255);
+font-weight: 800;
+}
+
+
+.twelve{
+  font-weight: 800;
+  color: white;
+
+}
+
+.twelve:hover{
+  color: rgb(255, 246, 121);
+font-weight: 800;
+}
+
+
+.thirteen{
+  font-weight: 800;
+  color: white;
+
+}
+
+.thirteen:hover{
+  color: rgb(210, 255, 174);
+font-weight: 800;
+}
+
+
+.fourteen{
+  font-weight: 800;
+  color: white;
+
+}
+
+.fourteen:hover{
+  color: rgb(255, 191, 52);
+font-weight: 800;
+}
+
+
+.fifteen{
+  font-weight: 800;
+  color: white;
+
+}
+
+.fifteen:hover{
+  color: rgb(104, 104, 104);
+font-weight: 800;
+}
+
+
+
+.sixteen{
+  font-weight: 800;
+  color: white;
+
+}
+
+.sixteen:hover{
+  color: rgb(194, 194, 194);
+font-weight: 800;
+}
+
+
+.seventeen{
+  font-weight: 800;
+  color: white;
+
+}
+
+.seventeen:hover{
+  color: rgb(192, 214, 93);
+font-weight: 800;
+}
+
+.eighteen{
+  font-weight: 800;
+  color: white;
+
+}
+
+.eighteen:hover{
+  color: rgb(255, 224, 47);
+font-weight: 800;
+}
+
+
+.nineteen{
+  font-weight: 800;
+  color: white;
+
+}
+
+.nineteen:hover{
+  color: rgb(255, 93, 93);
+font-weight: 800;
+}
+
+
+.twenty{
+  font-weight: 800;
+  color: white;
+
+}
+
+.twenty:hover{
+  color: rgb(70, 119, 184);
+font-weight: 800;
+}
+
+.twentyone{
+  font-weight: 800;
+  color: white;
+
+}
+
+.twentyone:hover{
+  color: rgb(255, 123, 35);
+font-weight: 800;
+}
+
 
 
 @media (max-width: 800px) {
@@ -86,6 +278,112 @@ font-weight: 800;
   
   }
   .p{
-    color: black;
+    color: white;
   }
+
+  .one{
+    color: rgb(248, 227, 109);
+  font-weight: 800;
+  }
+
+  .two{
+    color: rgb(116, 173, 149);
+  font-weight: 800;
+  }
+
+  .three{
+    color: rgb(158, 232, 255);
+  font-weight: 800;
+  }
+
+  .four{
+    color: rgb(253, 242, 222);
+  font-weight: 800;
+  }
+
+  .five{
+    color: rgb(255, 185, 185);
+  font-weight: 800;
+  }
+
+  .six{
+    color: rgb(165, 165, 165);
+  font-weight: 800;
+  }
+
+  .seven{
+    color: rgb(255, 185, 185);
+  font-weight: 800;
+  }
+
+  .eight{
+    color: rgb(175, 62, 62);
+  font-weight: 800;
+  }
+
+  .nine{
+    color: rgb(173, 255, 248);
+  font-weight: 800;
+  }
+
+  .ten{
+    color: rgb(185, 81, 255);
+  font-weight: 800;
+  }
+
+  .eleven{
+    color: rgb(183, 250, 255);
+  font-weight: 800;
+  }
+
+  .twelve{
+    color: rgb(255, 246, 121);
+  font-weight: 800;
+  }
+
+  .thirteen{
+    color: rgb(210, 255, 174);
+  font-weight: 800;
+  }
+
+  .fourteen{
+    color: rgb(255, 191, 52);
+  font-weight: 800;
+  }
+
+  .fifteen{
+    color: rgb(104, 104, 104);
+  font-weight: 800;
+  }
+
+  .sixteen{
+    color: rgb(194, 194, 194);
+  font-weight: 800;
+  }
+
+  .seventeen{
+    color: rgb(192, 214, 93);
+  font-weight: 800;
+  }
+
+  .eighteen{
+    color: rgb(255, 224, 47);
+  font-weight: 800;
+  }
+
+  .nineteen{
+    color: rgb(255, 93, 93);
+  font-weight: 800;
+  }
+
+  .twenty{
+    color: rgb(70, 119, 184);
+  font-weight: 800;
+  }
+
+  .twentyone{
+    color: rgb(255, 123, 35);
+  font-weight: 800;
+  }
+
 }
