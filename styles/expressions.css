@@ -1,5 +1,12 @@
 .expressions {
   background: black;
+  min-height: 100%;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
 
 }
 
@@ -8,4 +15,54 @@
   text-align: center;
   font-family: objektiv-mk3, sans-serif;
   font-weight: 200;
+  line-height: 1.5;
+  
+}
+
+.one{
+  font-weight: 800;
+  color: white;
+}
+
+.one:hover{
+  color: rgb(248, 227, 109);
+font-weight: 800;
+}
+
+
+.two{
+  font-weight: 800;
+  color: white;
+
+}
+
+.two:hover{
+  color: rgb(116, 173, 149);
+font-weight: 800;
+}
+
+
+.three{
+  font-weight: 800;
+  color: white;
+
+}
+
+.three:hover{
+  color: rgb(116, 173, 149);
+font-weight: 800;
+}
+
+
+
+
+
+
+
+
+
+@media (max-width: 800px) {
+  .expressions {
+    background-color: blue;
+  }
 }
