@@ -1,0 +1,78 @@
+.gramercyone {
+    width: 100%;
+    height: auto;
+    width: 700px;
+    align-self: center;
+    cursor: pointer;
+
+
+}
+
+    .container {
+    width: 100%;
+    height: 100%;
+
+    margin: 0 auto;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.gramercytwo {
+    width: 100%;
+    height: auto;
+    width: 700px;
+    align-self: center;
+
+}
+
+    .container {
+    width: 100%;
+    height: 100%;
+
+    margin: 0 auto;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+p{
+    text-align: left;
+    font-family: helvetica;
+    color: grey;
+}
+
+.one{
+    width: 700px;
+    height: 100%;
+
+    margin: 0 auto;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+
+
+}
+
+
+body {
+    background-color: white;
+  }
+  
+  body.darkmode {
+    background-color: black;
+  }

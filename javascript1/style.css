@@ -1,0 +1,51 @@
+body {
+    background-color: lightblue;
+  }
+  
+  body.darkmode {
+    background-color: black;
+  }
+  
+  
+  .example {
+    font-family: avenir light;
+    color: white;
+    border: 5px solid white;
+    width: 500px;
+    height: 300px;
+    background: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18pt;
+    cursor: pointer;
+    margin-bottom: 30px;
+    
+  }
+  
+  .circle {
+    font-family: avenir light;
+    color: white;
+    border: 5px solid white;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18pt;
+    cursor: pointer;
+  }
+  
+  .check {
+    display: none;
+  }
+  
+  .check.appear {
+    display: block;
+    position: absolute;
+    top: 10px;
+    right: 1px;
+  }
+  
