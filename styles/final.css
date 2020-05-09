@@ -1,0 +1,22 @@
+.home {
+
+    font-family: objektiv-mk1, sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 50pt ;
+    text-align: center;
+    width: 100%;
+    height: auto;
+    color: black;
+    padding-bottom: 10%;
+    
+}
+
+.origin {
+    font-family: objektiv-mk1, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    width: 100%;
+    height: auto;
+    background-color: blanchedalmond;
+}
