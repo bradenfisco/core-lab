@@ -54,3 +54,17 @@
 
 
 
+  .contactus {
+    color: black;
+    border: 2px solid black;
+    width: 150pt;
+    height: 50pt;
+    border-radius: 50pt;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18pt;
+    cursor: pointer;
+    margin-bottom: 30px;
+    vertical-align: center;
+  }
