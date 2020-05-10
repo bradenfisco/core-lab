@@ -52,7 +52,11 @@
     clear: both;
   }
 
-
+  .button {
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
 
   .contactus {
     color: black;
@@ -61,10 +65,21 @@
     height: 50pt;
     border-radius: 50pt;
     display: flex;
+    flex-direction: row;
     justify-content: center;
     align-items: center;
     font-size: 18pt;
     cursor: pointer;
     margin-bottom: 30px;
-    vertical-align: center;
+
   }
+  
+
+
+  a:hover {
+      color: white;
+      background-color: black;
+      border: 2px solid white;
+  }
+
+

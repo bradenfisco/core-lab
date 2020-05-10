@@ -1,3 +1,30 @@
+.home {
+
+    font-family: objektiv-mk1, sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 50pt ;
+    text-align: center;
+    width: 100%;
+    height: auto;
+    color: black;
+    padding-bottom: 10pt;
+    
+}
+
+.origin {
+    font-family: objektiv-mk1, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18pt;
+    width: 100%;
+    height: auto;
+    background-color: rgb(253, 240, 221);
+
+}
+
+
+
 input[type=text], select, textarea {
     width: 100%; /* Full width */
     padding: 12px; /* Some padding */ 
@@ -31,6 +58,7 @@ input[type=text], select, textarea {
     padding: 20px;
     font-family: objektiv mk-1, sans-serif;
     font-style: normal;
+    padding-top: 10px;
 
   }
 
@@ -54,6 +82,3 @@ input[type=text], select, textarea {
     
   }
 
-  a:hover {
-      background-color: invert;
-  }
